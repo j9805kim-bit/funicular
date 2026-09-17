@@ -18,3 +18,7 @@ if genre == ":rainbow[Comedy]":
         st.write("You selected comedy.")
 else:
         st.write("You didn't select comedy.")
+
+
+color = st.color_picker("Pick A Color", "#00f900")
+st.write("The current color is", color)
