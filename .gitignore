@@ -1,0 +1,5 @@
+Microsoft VS Code/
+__pycache__/
+.venv/
+venv/
+*.pyc
